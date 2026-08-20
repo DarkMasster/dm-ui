@@ -1,0 +1,14 @@
+{
+  "name": "com.dm.ui",
+  "displayName": "DM UI Framework",
+  "version": "0.1.0",
+  "unity": "6000.5",
+  "description": "Каркас DM: MVVM для UI Toolkit (Widget / IViewModel / UILayout), пулинг, реактивные типы и интеграция с VContainer/Addressables.",
+  "license": "MIT",
+  "author": {
+    "name": "Andrey Oleynikov"
+  },
+  "dependencies": {
+    "com.unity.addressables": "2.9.1"
+  }
+}

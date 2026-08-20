@@ -1,0 +1,17 @@
+{
+  "name": "DM.UI",
+  "rootNamespace": "DM.UI",
+  "references": [
+    "DM.Pooling",
+    "UniTask"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

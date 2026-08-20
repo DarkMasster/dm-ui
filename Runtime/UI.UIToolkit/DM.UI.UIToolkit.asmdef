@@ -1,0 +1,17 @@
+{
+  "name": "DM.UI.UIToolkit",
+  "rootNamespace": "DM.UI.UIToolkit",
+  "references": [
+    "DM.UI",
+    "DM.Reactivity"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

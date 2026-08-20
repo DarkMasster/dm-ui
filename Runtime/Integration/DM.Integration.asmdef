@@ -1,0 +1,21 @@
+{
+  "name": "DM.Integration",
+  "rootNamespace": "DM.Integration",
+  "references": [
+    "DM.UI",
+    "DM.Pooling",
+    "VContainer",
+    "UniTask",
+    "Unity.Addressables",
+    "Unity.ResourceManager"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

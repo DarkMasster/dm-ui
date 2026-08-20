@@ -1,0 +1,19 @@
+{
+  "name": "DM.UI.DOTween",
+  "rootNamespace": "DM.UI.DOTween",
+  "references": [
+    "DM.UI",
+    "UniTask"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [
+    "DM_DOTWEEN"
+  ],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
